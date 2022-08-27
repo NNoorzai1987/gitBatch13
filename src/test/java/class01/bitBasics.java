@@ -10,5 +10,7 @@ public class bitBasics {
         System.out.println("Today is little bit hot");
         System.out.println("today is not a  beautiful day");
         System.out.println("Today is little bit hot");
+        System.out.println("today is not a  beautiful day");
+        System.out.println("Today is little bit hot");
     }
 }
